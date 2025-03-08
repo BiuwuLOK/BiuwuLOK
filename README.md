@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my Github!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![biuwuLOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
