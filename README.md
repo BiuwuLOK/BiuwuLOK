@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my Github!
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&title_color=2596be&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&title_color=abdbef&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 
