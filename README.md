@@ -24,6 +24,6 @@ Welcome to my Github!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=biuwuLOK)](https://git.io/streak-stats)
 
-\
+[![GitHub Streak](https://streak-stats.demolab.com?user=biuwuLOK&theme=rust-ferris-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
