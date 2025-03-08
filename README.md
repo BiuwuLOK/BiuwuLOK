@@ -22,6 +22,6 @@ Welcome to my Github!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=biuwuLOK&theme=calm-pink&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=biuwuLOK&theme=calm-pink&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
