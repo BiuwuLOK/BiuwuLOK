@@ -22,7 +22,7 @@ Welcome to my Github!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=biuwuLOK&theme=onedark)](https://github.com/biuwuLOK/github-profile-trophy)
 
 \
 
