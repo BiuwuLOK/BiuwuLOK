@@ -19,7 +19,7 @@ Welcome to my Github!
 
 <a href="https://github.com/biuwuLOK/github-readme-stats-copy">
   
-  <img align="center" src="https://github-readme-stats-copy.vercel.app/api/pin/?username=biuwuLOK" />
+  <img align="center" src="https://github-readme-stats-copy.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats-copy" />
 </a>
 <a href="https://github.com/biuwuLOK/convoychat">
   <img align="center" src="https://github-readme-stats-copy.vercel.app/api/pin/?username=biuwuLOK&repo=convoychat" />
