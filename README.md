@@ -28,7 +28,6 @@ Welcome to my Github!
 
 
 <div align="center">
-<table>
 <tr>
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 
@@ -168,7 +167,5 @@ Welcome to my Github!
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code></td>
 
 </tr>
-
-</table>
 
 </div>
