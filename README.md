@@ -12,15 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&size=52&letterSpacing=1.0rem&pause=1000&color=F74C10&background=6A9DFF00&center=true&vCenter=true&random=true&width=900&height=120&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+...)](https://git.io/typing-svg)
 
-<div>
+
+
+<Section>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</div>
+</Section>
 
-<div align="center">
+<Section align="center">
 <tr>
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 
@@ -161,4 +164,4 @@ Here are some ideas to get you started:
 
 </tr>
 
-</div>
+</Section>
