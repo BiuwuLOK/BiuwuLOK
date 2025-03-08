@@ -20,4 +20,6 @@ Welcome to my Github!
 ![biuwuLOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 [![biuwuLOK's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
