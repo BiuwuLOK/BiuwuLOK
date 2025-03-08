@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Welcome to my Github!
 
-<a href="https://github.com/biuwuLOK/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-copy-beige.vercel.app/api?username=biuwuLOK\rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" />
+<a href="https://github.com/biuwuLOK/github-readme-stats-copy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/biuwuLOK/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-copy-beige.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=convoychat" />
 </a>
 
 \
