@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&center=true&vCenter=true&random=true&width=600&height=150&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+...)](https://git.io/typing-svg)
+
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
