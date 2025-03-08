@@ -24,6 +24,6 @@ Welcome to my Github!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-\\
+\
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
