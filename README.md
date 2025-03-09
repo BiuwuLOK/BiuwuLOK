@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- -->
-<div align="center">
+<p align="center">
    <td><code> <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></code></td>
-</div>
+</p>
 
 <!-- -->
 <div align="center">
