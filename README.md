@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <div align="center">
 <tr>
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
