@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+   <td><code> <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></code></td>
+  
 </p>
 
 <div align="center">
