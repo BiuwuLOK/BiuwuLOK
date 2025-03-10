@@ -28,8 +28,15 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 
+<!-- -->
+<div align="center">
+   <td><code> <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></code></td>
+</div>
+
+<!-- -->
 <div align="center">
 <tr>
+  
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 
 <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code></td>
