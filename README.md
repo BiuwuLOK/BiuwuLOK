@@ -124,14 +124,6 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2>🛠️ Tools & Editors</h2></summary>
-    <table>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<details open>
-  <summary><h2>🛠️ Tools & Editors</h2></summary>
   <div align="center">
     <table>
       <tr>
