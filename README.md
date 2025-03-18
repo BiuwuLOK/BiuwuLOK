@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## About my skills & works
 
 <details open>
-  <summary><h2> 🛠️ Backend & APIs </h2></summary>
+  <summary><h2> 🛠️ Main Dev Languages </h2></summary>
 
 </details>
 
