@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2> 💡💬🦊 AI & Web3 </h2></summary>
-		<code><img width="50" height="50" src="./assets/Google_AI_Studio.svg"/></code>
-		<code><img width="50" height="50" src="./assets/icons8-claude.svg" alt="GPT" title="GPT"/></code>
-    <code><img width="50" height="50" src="./assets/grok.png" alt="Gemini" title="Gemini"/></code>
-    <code><img width="50" height="50" src="./assets/icons8-chatgpt.svg" alt="Grok" title="Grok"/></code>
-    <code><img width="50" height="50" src="./assets/chatgpt-3.svg" alt="Grok" title="Grok"/></code>
-    <code><img width="50" height="50" src="./assets/icons8-perplexity-ai.svg" alt="Grok" title="Grok"/></code>
-    <code><img width="50" height="50" src="./assets/icons8-deepseek.svg" alt="Grok" title="Grok"/></code>
-    <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Grok" title="Grok"/></code>
+		<code><img width="50" height="50" src="./assets/Google_AI_Studio.svg" alt="GoogleAIStudio" title="GoogleAIStudio"/></code>
+		<code><img width="50" height="50" src="./assets/icons8-claude.svg" alt="Anthropic" title="Anthropic"/></code>
+    <code><img width="50" height="50" src="./assets/grok.png" alt="grok" title="grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-chatgpt.svg" alt="chatGPT" title="chatGPT"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-chatgpt-outline.svg" alt="chatGPTw" title="chatGPTw"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-perplexity-ai.svg" alt="Perplexity" title="Perplexity"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-deepseek.svg" alt="DeepSeek" title="DeepSeek"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Replit" title="Replit"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
