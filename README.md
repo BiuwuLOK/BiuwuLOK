@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2>🛠️ Backend & APIs</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></td>
@@ -76,12 +75,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>💻 Frontend</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></td>
@@ -100,12 +97,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>📱 Mobile & Cross-Platform</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" alt="iOS" title="iOS"/></td>
@@ -114,12 +109,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>💾 Databases</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></td>
@@ -127,12 +120,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>🛠️ Tools & Editors</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
@@ -151,12 +142,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>🎨 Design & UI/UX</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></td>
@@ -164,12 +153,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2><0xF0><0x9F><0x97><0x84>️ Operating Systems</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></td>
@@ -179,12 +166,10 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 <details open>
   <summary><h2>🌐 Web Platforms/CMS</h2></summary>
-  <div align="center">
     <table>
       <tr>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="Wordpress" title="Wordpress"/></td>
@@ -192,7 +177,6 @@ Here are some ideas to get you started:
         <td></td><td></td><td></td><td></td><td></td><td></td>
       </tr>
     </table>
-  </div>
 </details>
 
 # <!-- -->
