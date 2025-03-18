@@ -58,7 +58,6 @@ Here are some ideas to get you started:
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
 </details>
 
-    
 <details open>
   <summary><h2> 🛠️ Backend & APIs </h2></summary>
   <div align="center">
