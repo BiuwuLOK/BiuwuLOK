@@ -331,9 +331,7 @@ Here are some ideas to get you started:
   </div>
 </details>
 
-# Hi there 👋
-
-Welcome to my GitHub profile!
+# <!-- -->
 
 ![GitHub Snake](./dist/github-snake.svg)
 
