@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2> 💻 Frontend </h2></summary>
+  <summary><h2> 🎨 Frontend </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2> 🎨 Design & UI/UX </h2></summary>
+  <summary><h2> 🎬 Design & UI/UX </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 </details>
