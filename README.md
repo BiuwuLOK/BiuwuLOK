@@ -119,11 +119,6 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2>  Design & UI/UX </h2></summary>
-
-</details>
-
-<details open>
   <summary><h2> 💻 Operating Systems </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
