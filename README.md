@@ -104,11 +104,10 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2> 🔗🕸️🤖 Web3 & AI Skills </h2></summary>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png" alt="Solana" title="Solana"/></code>
-    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></code>
-    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></code>
     <code><img width="50" height="50" src="YOUR_GPT_ICON_URL" alt="GPT" title="GPT"/></code>
     <code><img width="50" height="50" src="YOUR_GEMINI_ICON_URL" alt="Gemini" title="Gemini"/></code>
