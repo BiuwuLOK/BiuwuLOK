@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 		<code><img width="50" height="50" src="./assets/icons8-claude.svg" alt="GPT" title="GPT"/></code>
     <code><img width="50" height="50" src="./assets/grok.png" alt="Gemini" title="Gemini"/></code>
     <code><img width="50" height="50" src="./assets/icons8-chatgpt.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/chatgpt-3.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="./assets/icons8-perplexity-ai.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="./assets/icons8-deepseek.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Grok" title="Grok"/></code>
