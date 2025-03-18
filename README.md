@@ -43,11 +43,6 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&card_width=320&theme=onedark" />
 </h1>
 
-<!-- -->
-<div align="center">
-   <td><code> <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></code></td>
-</div>
-
 ## About my skills & works
 
 <details open>
