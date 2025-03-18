@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2> 🔗🕸️🤖 Web3 & AI Skills </h2></summary>
-	  <code><img width="50" height="50" src="YOUR_GPT_ICON_URL" alt="GPT" title="GPT"/></code>
+		<code><img width="50" height="50" src="YOUR_GPT_ICON_URL" alt="GPT" title="GPT"/></code>
     <code><img width="50" height="50" src="YOUR_GEMINI_ICON_URL" alt="Gemini" title="Gemini"/></code>
     <code><img width="50" height="50" src="YOUR_GROK_ICON_URL" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
