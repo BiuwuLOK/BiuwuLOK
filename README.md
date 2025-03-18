@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2>🛠️ Backend & APIs</h2></summary>
-    <div style="display: flex; flex-wrap: wrap; pointer-event: none;">
+    <div style="display: flex; flex-wrap: wrap; pointer-events: none;">
         <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/>
         <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/>
         <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
