@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ## About my skills & works
 
 <details open>
-  <summary><h2>🛠️ Backend & APIs</h2></summary>
+  <summary> 🛠️ Backend & APIs </summary>
   <div align="center">
     <table>
       <tr>
