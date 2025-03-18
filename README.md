@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <details open>
   <summary><h2>🛠️ Backend & APIs</h2></summary>
-    <div style="display: flex; flex-wrap: wrap;">
+    <table style="display: flex; flex-wrap: wrap;">
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></td>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></td>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></td>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></td>
         <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png" alt="Solana" title="Solana"/></td>
         <td></td><td></td><td></td><td></td><td></td>
-    </div>
+    </table>
 </details>
 
 <details open>
