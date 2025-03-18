@@ -330,3 +330,13 @@ Here are some ideas to get you started:
     </table>
   </div>
 </details>
+
+# Hi there 👋
+
+Welcome to my GitHub profile!
+
+![GitHub Snake](./dist/github-snake.svg)
+
+![GitHub Snake Dark](./dist/github-snake-dark.svg)
+
+![GitHub Snake Ocean](./dist/ocean.gif)
