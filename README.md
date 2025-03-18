@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2> 🧮 Databases </h2></summary>
+  <summary><h2> 💾 Databases </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
 </details>
