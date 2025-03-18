@@ -1,0 +1,55 @@
+name: Generate Snake Game
+
+# Controls when the workflow will run
+on:
+  # Schedules the workflow to run every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Triggers the workflow on push or pull request events but only for the "master" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Sets up Python 3.9 on the runner
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # Installs the Python dependencies listed in the requirements.txt file
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Runs the script to generate the snake game
+      - name: Generate snake game
+        run: |
+          python ./generate.py
+
+      # Configures Git and commits the generated snake game files
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Update snake game'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
