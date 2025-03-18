@@ -55,9 +55,12 @@ Here are some ideas to get you started:
 <details open>
   <summary><h2> 💡💬🦊 AI & Web3 </h2></summary>
 		<code><img width="50" height="50" src="./assets/Google_AI_Studio.svg"/></code>
-		<code><img width="50" height="50" src="YOUR_GPT_ICON_URL" alt="GPT" title="GPT"/></code>
-    <code><img width="50" height="50" src="YOUR_GEMINI_ICON_URL" alt="Gemini" title="Gemini"/></code>
-    <code><img width="50" height="50" src="YOUR_GROK_ICON_URL" alt="Grok" title="Grok"/></code>
+		<code><img width="50" height="50" src="./assets/icons8-claude.svg" alt="GPT" title="GPT"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-grok.svg" alt="Gemini" title="Gemini"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-chatgpt.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-perplexity-ai.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-deepseek.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
