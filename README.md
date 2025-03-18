@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   </div>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&size=52&letterSpacing=1.0rem&pause=1000&color=F74C10&background=6A9DFF00&center=true&vCenter=true&random=true&width=900&height=100&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+...)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+..." alt="Typing SVG" />
+</a>
 
 # 
 
