@@ -1,3 +1,10 @@
+
+<!-- -->
+<div align="center">
+   <td><code> <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></code></td>
+</div>
+
+
 <!-- -->
 <div align="center">
 <tr>
