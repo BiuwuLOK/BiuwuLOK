@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 -->
-<h1 align="center">🔥🔥🔥🔥🔥🔥</h1>
 <h1 align="center">
+  <span>🔥🔥🔥🔥🔥🔥</span>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   <span> Biuwu's little Studio </span>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <span>🔥🔥🔥🔥🔥🔥</span>
 </h1>
-<h1 align="center">🔥🔥🔥🔥🔥🔥</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&size=52&letterSpacing=1.0rem&pause=1000&color=F74C10&background=6A9DFF00&center=true&vCenter=true&random=true&width=900&height=120&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+...)](https://git.io/typing-svg)
 
