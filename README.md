@@ -98,6 +98,7 @@ Here are some ideas to get you started:
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
 		<code><img width="50" height="50" src="https://devicon-website.vercel.app/api/html5/original.svg"></img></code>
     <code><img width="50" height="50" src="https://devicon-website.vercel.app/api/css3/original.svg"></img></code>
+		<code><img width="50" height="50" src="./assets/three_js.svg" alt="Three.js" title="Three.js"/></code>
 </details>
 
 <details >
