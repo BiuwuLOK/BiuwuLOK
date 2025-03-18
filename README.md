@@ -61,6 +61,10 @@ Here are some ideas to get you started:
     <code><img width="50" height="50" src="./assets/icons8-perplexity-ai.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="./assets/icons8-deepseek.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-chatgpt-outline.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-grok-outline.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-perplexity-ai-outline.svg" alt="Grok" title="Grok"/></code>
+    <code><img width="50" height="50" src="./assets/icons8-replit.svg" alt="Grok" title="Grok"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
