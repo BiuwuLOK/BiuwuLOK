@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2> ⚙️ Tools & Editors </h2></summary>
+  <summary><h2> 📐 Tools & Editors </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
