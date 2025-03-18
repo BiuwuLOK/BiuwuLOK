@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&count_private=false&langs_count=8)
 
 <!--
 ![GitHub Snake](./dist/github-snake.svg)
