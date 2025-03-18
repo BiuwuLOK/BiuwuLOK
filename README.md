@@ -136,7 +136,7 @@ Here are some ideas to get you started:
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wix.png" alt="Wix" title="Wix"/></code>
 </details>
 
-# <!-- --> :octocat::octocat::octocat::octocat::octocat::octocat:
+# :octocat::octocat::octocat::octocat::octocat::octocat:
 <!--
 ![GitHub Snake](./dist/github-snake.svg)
 
