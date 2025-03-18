@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 </details>
 
-#  
+##
 
 <!--
 ![GitHub Snake](./dist/github-snake.svg)
