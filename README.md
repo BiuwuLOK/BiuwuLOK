@@ -118,18 +118,18 @@ Here are some ideas to get you started:
   <summary><h2> 💾 Databases & Data Science </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
-		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
-		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
-		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
+    <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 </details>
 
 #
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
-  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived&timestamp=1618232794" />
+  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived" />
 	<!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
