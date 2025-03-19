@@ -142,4 +142,4 @@ https://github.com/BiuwuLOK/BiuwuLOK/blob/master/README.md
 ![GitHub Snake Ocean](./dist/ocean.gif)
 -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiuwuLOK)](https://github.com/anuraghazra/github-readme-stats)
