@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary><h2> 💡💬🦊 AI & Web3 </h2></summary>
+  <summary><h2> 💡💬🦊 AI+ Extends </h2></summary>
     <code><img width="50" height="50" src="./assets/Google_AI_Studio.svg" alt="GoogleAIStudio" title="GoogleAIStudio"/></code>
     <code><img width="50" height="50" src="./assets/icons8-claude.svg" alt="Anthropic" title="Anthropic"/></code>
     <code><img width="50" height="50" src="./assets/grok.png" alt="grok" title="grok"/></code>
