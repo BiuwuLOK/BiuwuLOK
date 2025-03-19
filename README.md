@@ -141,4 +141,4 @@ https://github.com/BiuwuLOK/BiuwuLOK/blob/master/README.md
 
 ![GitHub Snake Ocean](./dist/ocean.gif)
 -->
-<img height=200 max-width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiuwuLOK" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiuwuLOK" />
