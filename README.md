@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ------------------------------------------------------------------------->
+<!-- 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ------------------------------------------------------------------------->
 <h1 align="center">
   <div>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+..." alt="Typing SVG" />
 </div>
 
-<!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
+<!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
 
 <details open>
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
-  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived&count=8" />
+  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived" />
 	<!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
