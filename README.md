@@ -123,7 +123,7 @@ Here are some ideas to get you started:
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" alt="Hadoop" title="Hadoop"/></code>
-    <code><img width="50" height="50" src="./assets/scikit-learn" alt="Scikit-Learn" title="Scikit-Learn"/></code>
+    <code><img width="50" height="50" src="./assets/scikit-learn.svg" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 </details>
 
 #
