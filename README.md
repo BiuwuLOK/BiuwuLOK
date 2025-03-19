@@ -113,7 +113,7 @@ Here are some ideas to get you started:
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
 </details>
-
+https://github.com/BiuwuLOK/BiuwuLOK/blob/master/README.md
 <details >
   <summary><h2> 💾 Databases & Data Science </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
-  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=Nilearn_extend_study_fmri" />
+  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA" />
 	<!-- GitHub Snake Ocean -->
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
