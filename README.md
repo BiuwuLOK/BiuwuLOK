@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ------------------------------------------------------------------------->
+<!-- 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 ------------------------------------------------------------------------->
 <h1 align="center">
   <div>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
@@ -125,11 +125,11 @@ Here are some ideas to get you started:
 		<code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 </details>
 
-##
+#
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA" />
-  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived" />
+  <img height=200 max-width="320" align="center" src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived&count=8" />
 	<!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
