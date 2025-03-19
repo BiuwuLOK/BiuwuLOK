@@ -141,4 +141,4 @@ Here are some ideas to get you started:
 
 ![GitHub Snake Ocean](./dist/ocean.gif)
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiuwuLOK&exlude_repo=isArchived" />
+https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived
