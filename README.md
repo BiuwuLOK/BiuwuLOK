@@ -133,7 +133,6 @@ Here are some ideas to get you started:
 	<!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
 	<br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
-<img src="https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived" />
 
 <!--
 ![GitHub Snake](./dist/github-snake.svg)
@@ -142,4 +141,3 @@ Here are some ideas to get you started:
 
 ![GitHub Snake Ocean](./dist/ocean.gif)
 -->
-https://github-readme-stats-copy-gamma.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived
