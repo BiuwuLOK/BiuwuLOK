@@ -43,9 +43,11 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer passionate with new AI Era combine with trading and data science 💻.
+My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
+- ✍️ I'm currently developing [SiuBiu-AI-Quant-System], an AI-driven platform for quantitative trading strategies.
+- 🔬 I'am also studying RUST programming which prosperity and growth AI, Trading, even Web3 fileds.
 
-I enjoy building innovative solutions for financial markets, leveraging Python and its powerful libraries. I am always eager to learn and collaborate with others in these exciting fields 🙂.
+
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
