@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 Hi there 👋
 
 My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
-- ✍️ Currently developing [SiuBiu-AI-Quant-System], an AI-driven platform for quantitative trading strategies.
-- 🔬 I'm also studying RUST programming which prosperity and growth AI, Trading, even Web3 fileds.
+- ✍️ Currently developing [[SiuBiu-AI-Quant-System](https://github.com/BiuwuLOK/SiuBiu-AI-Quant-System)], an AI-driven platform for quantitative trading strategies.
+- 🔬 I'm also studying RUST programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
 
 🧠This year is the moment AI-powered technologies🤖, fueled by Deepseek's advancements💪🦾, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
 
