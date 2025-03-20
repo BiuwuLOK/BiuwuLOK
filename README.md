@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA" />
-  <img height=200 max-width="320" align="center" src="https://github-readme-stats-biuwu.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA&exclude_repo=isArchived" />
+  <img height=200 max-width="320" align="center" src="https://github-readme-stats-biuwu.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA&exclude_repo=isArchived" />
   <!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
   <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
