@@ -1,11 +1,5 @@
 <!--
 This area most for the empty commit to view any change in the README
-
-
-
-
-
-
 -->
 <!--
 **biuwuLOK/biuwuLOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,9 +40,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+Human;Welcome+to;The+New+Deep;Interlligence+Era+..." alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=AI+Specialist;Trading+Bot+Developer;Full-Stack+Engineer" alt="Typing SVG" />
-</div>
+
+Hi there 👋
+
+My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer passionate with new AI Era combine with trading and data science 💻.
+
+I enjoy building innovative solutions for financial markets, leveraging Python and its powerful libraries. I am always eager to learn and collaborate with others in these exciting fields 🙂.
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
