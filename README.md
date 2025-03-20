@@ -47,7 +47,7 @@ My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer specializin
 - ✍️ Currently developing [[SiuBiu-AI-Quant-System](https://github.com/BiuwuLOK/SiuBiu-AI-Quant-System)], an AI-driven platform for quantitative trading strategies.
 - 🔬 I'm also studying RUST programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
 
-🧠This year is the moment AI-powered technologies🤖, fueled by Deepseek's advancements💪🦾, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
+🧠This year is the moment AI-powered technologies, fueled by Deepseek's advancements, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
