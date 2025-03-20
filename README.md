@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </div>
-  <span>🔥🔥🔥 Biuwu's Little Studio 🔥🔥🔥</span>
+  <span>🔥🔥🔥 Welcome Biuwu's Studio 🔥🔥🔥</span>
   <div>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 Hi there 👋
 
 My name is Maximilian LOK (Biuwu LOK) and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
-- ✍️ I'm currently developing [SiuBiu-AI-Quant-System], an AI-driven platform for quantitative trading strategies.
-- 🔬 I'am also studying RUST programming which prosperity and growth AI, Trading, even Web3 fileds.
+- ✍️ Currently developing [SiuBiu-AI-Quant-System], an AI-driven platform for quantitative trading strategies.
+- 🔬 I'm also studying RUST programming which prosperity and growth AI, Trading, even Web3 fileds.
 
-
+🧠This year is the moment AI-powered technologies🤖, fueled by Deepseek's advancements💪🦾, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
