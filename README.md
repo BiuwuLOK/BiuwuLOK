@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 Hi there 👋
 
 My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
+- ✍️ Currently developing [[xx-Biu-readme-assis](https://github.com/BiuwuLOK/xx-Biu-reademe-assis)], an AI-driven platform for quantitative trading strategies.
 - ✍️ Currently developing [[X-Biu-AI-Quant-System](https://github.com/BiuwuLOK/Biu-AI-Quant-System)], an AI-driven platform for quantitative trading strategies.
 - 🔬 I'm also studying Rust programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
 
