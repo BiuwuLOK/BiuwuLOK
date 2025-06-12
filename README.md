@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 Hi there 👋
 
 My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
-- ✍️ Currently developing [[xx-Biu-readme-assis](https://github.com/BiuwuLOK/xx-Biu-reademe-assis)], an AI-RAG-driven assis app.
-- ✍️ Currently developing [[X-Biu-AI-Quant-System](https://github.com/BiuwuLOK/Biu-AI-Quant-System)], an AI-driven platform for quantitative trading strategies.
+- ✍️ Currently developing [X Building the RAG me App](https://github.com/BiuwuLOK/x.Biu.RAG.me.app), an AI-RAG-driven assis app.
+- ✍️ Currently developing [binance-multi-assets-singal-agent](https://github.com/BiuwuLOK/binance-multi-assets-singal-agent), an AI-driven for Real-time detection Binance multi-assets and trading singal agent.
 - 🔬 I'm also studying Rust programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
 
 🧠This year is the moment AI-powered technologies, fueled by Deepseek's advancements, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
