@@ -124,7 +124,7 @@ My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI in
     <code><img width="50" height="50" src="./assets/scikit-learn.svg" alt="Scikit-Learn" title="Scikit-Learn"/></code>
 </details>
 
-#
+<h1></h1>
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA" />
