@@ -2,7 +2,7 @@
 This area most for the empty commit to view any change in the README
 -->
 <!--
-**biuwuLOK/biuwuLOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sinwulok/sinwulok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 Hi there 👋
 
 My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
-- ✍️ Currently developing [X Building the RAG me App](https://github.com/BiuwuLOK/x.Biu.RAG.me.app), an AI-RAG-driven assis app.
-- ✍️ Currently developing [binance-multi-assets-singal-agent](https://github.com/BiuwuLOK/binance-multi-assets-singal-agent), an AI-driven for Real-time detection Binance multi-assets and trading singal agent.
+- ✍️ Currently developing [X Building the RAG me App](https://github.com/sinwulok/x.Biu.RAG.me.app), an AI-RAG-driven assis app.
+- ✍️ Currently developing [binance-multi-assets-singal-agent](https://github.com/sinwulok/binance-multi-assets-singal-agent), an AI-driven for Real-time detection Binance multi-assets and trading singal agent.
 - 🔬 I'm also studying Rust programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
 
 🧠This year is the moment AI-powered technologies, fueled by Deepseek's advancements, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
@@ -127,8 +127,8 @@ My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI in
 <h1></h1>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api?username=biuwuLOK&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA" />
-  <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api/top-langs?username=biuwuLOK&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA&exclude_repo=isArchived" />
+  <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api?username=sinwulok&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA" />
+  <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api/top-langs?username=sinwulok&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA&exclude_repo=isArchived" />
   <!-- GitHub Snake Ocean --> <!-- &exclude_repo=Nilearn_extend_study_fmri&E-Learning-FA -->
   <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
